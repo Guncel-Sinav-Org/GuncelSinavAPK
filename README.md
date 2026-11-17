@@ -14,7 +14,7 @@ Güncel Sınav öğrenci uygulamasının Android kurulum dosyası bu depodadır.
 
 ## İndirme
 
-**[guncel-sinav.apk — en son sürüm](https://github.com/Guncel-Sinav-Org/GuncelSinavApk/releases/latest/download/guncel-sinav.apk)**
+**[guncel-sinav.apk — en son sürüm](https://github.com/Guncel-Sinav-Org/GuncelSinavAPK/releases/latest/download/guncel-sinav.apk)**
 
 Bu bağlantı her zaman en son sürümü indirir. Aynı bağlantı [guncelsinav.com/uygulama](https://www.guncelsinav.com/uygulama)
 sayfasında ve öğrenci panelindeki karekodda da vardır.
